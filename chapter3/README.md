@@ -6,4 +6,4 @@
 4. [Donut worry, be happy!](donut-worry.py)
 5. [Latte Special](latte-special.py)
 6. [It’s Friday, Friday...](friday-friday.py)
-7. [Olympics!](olympics.py)
+7. [Olympics!](olympics.py)  
